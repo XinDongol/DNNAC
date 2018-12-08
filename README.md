@@ -15,3 +15,20 @@ All about acceleration and compression of Deep Neural Networks
   > Full stack quantization for weights, activation and gradient.
   > 
   > Implementation: [Tensorpack](https://github.com/tensorpack/tensorpack/tree/master/examples/DoReFa-Net)
+  
+### Pruning
+
+* Learning both Weights and Connections for Efficient Neural Networks
+  > A very simple way to introduce arbitrary sparisity. 
+  
+* Learning Structured Sparsity in Deep Neural Networks
+  > An united way to introduce structured sparsity.
+  >
+  > Implementation: [Caffe](https://github.com/wenwei202/caffe/tree/scnn)
+
+### Others
+
+* Net2Net : Accelerating Learning via Knowledge Transfer
+  > An interesting way to change the architecture of models while keeping output the same
+  > 
+  > Implementation: [TF](https://github.com/paengs/Net2Net), [Pytorch](https://github.com/erogol/Net2Net)
