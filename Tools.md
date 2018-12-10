@@ -1,3 +1,9 @@
+## Fast Training
+1. [APEX](https://github.com/NVIDIA/apex)
+
+   > A PyTorch Extension from NVIDIA: Tools for easy mixed precision (Automatic Mixed Precision, and FP16) and distributed training (DistributedDataParallel, Sync BN) in Pytorch
+
+
 ## Viz
 1. Netron: [Github](https://github.com/lutzroeder/netron), [Brower](https://lutzroeder.github.io/netron/)
 
