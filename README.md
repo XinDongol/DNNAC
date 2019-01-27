@@ -32,3 +32,9 @@ All about acceleration and compression of Deep Neural Networks
   > An interesting way to change the architecture of models while keeping output the same
   > 
   > Implementation: [TF](https://github.com/paengs/Net2Net), [Pytorch](https://github.com/erogol/Net2Net)
+
+
+### Embedded System
+
+* [EMDL](https://github.com/EMDL/awesome-emdl): Embedded and mobile deep learning research notes
+  > Embedded and mobile deep learning research notes on Github
