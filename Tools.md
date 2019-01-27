@@ -3,6 +3,17 @@
 
    > A PyTorch Extension from NVIDIA: Tools for easy mixed precision (Automatic Mixed Precision, and FP16) and distributed training (DistributedDataParallel, Sync BN) in Pytorch
 
+2. [Horovod](https://github.com/uber/horovod#running-horovod)
+
+    > Horovod is a distributed training framework for TensorFlow, Keras, and PyTorch. The goal of Horovod is to make distributed Deep Learning fast and easy to use. Use baidu's RingAllReduce.
+    
+    > While installing MPI and NCCL itself may seem like an extra hassle, it only needs to be done once by the team dealing with infrastructure, while everyone else in the company who builds the models can enjoy the simplicity of training them at scale.
+
+## Fast Layers
+1. [Pytorch-extension](https://github.com/sniklaus/pytorch-extension)
+    > This is an example of a CUDA extension for PyTorch which uses CuPy to compute the Hadamard product of two tensors.
+
+    > For a more advanced PyTorch extension that uses CuPy as well, please see: https://github.com/szagoruyko/pyinn
 
 ## Viz
 1. Netron: [Github](https://github.com/lutzroeder/netron), [Brower](https://lutzroeder.github.io/netron/)
@@ -22,3 +33,6 @@
 2. [Pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter):
 
    > Count the FLOPs of your PyTorch model.
+
+3. [torchsummary](https://github.com/sksq96/pytorch-summary)
+   > Keras style model.summary() in PyTorch. It is useful to check output size of each layer.
