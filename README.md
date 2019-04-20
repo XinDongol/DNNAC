@@ -16,6 +16,17 @@ All about acceleration and compression of Deep Neural Networks
   > 
   > Implementation: [Tensorpack](https://github.com/tensorpack/tensorpack/tree/master/examples/DoReFa-Net)
   
+* Deep Learning with Low Precision by Half-wave Gaussian Quantization
+  > Try to improve expersiveness of quantized activation function. 
+  >
+  > Implementation: [Caffe](https://github.com/zhaoweicai/hwgq) (origin)
+  
+* Quantizing deep convolutional networks for efficient inference: A whitepaper 
+  > Non-official technical report of quantization from Google. You can find a lot of technical details about quantization in this paper. 
+  
+* A Survey on Methods and Theories of Quantized Neural Networks
+  > Nice survey on quantization (up to Dec. 2018)
+  
 ### Pruning
 
 * Learning both Weights and Connections for Efficient Neural Networks
