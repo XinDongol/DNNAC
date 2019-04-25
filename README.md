@@ -38,7 +38,7 @@ All about acceleration and compression of Deep Neural Networks
   > Implementation: [Caffe](https://github.com/wenwei202/caffe/tree/scnn)
 
 ### Others
-* Benchmark Analysis of Representative Deep Neural Network Architectures
+* Benchmark Analysis of Representative Deep Neural Network Architectures [IEEE Access, University of Milano-Bicocca]
   > This work presents an in-depth analysis of the majority of the deep neural networks (DNNs) proposed in the state of the art for image recognition in terms of GFLOPs, #weights, Top-1 accuacy and so on.
   
 * Net2Net : Accelerating Learning via Knowledge Transfer
