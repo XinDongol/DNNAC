@@ -39,3 +39,6 @@
    
 4. [Pytorch-Memory-Utils](https://github.com/Oldpan/Pytorch-Memory-Utils)
    > A tool can help you to detect your GPU memory during training with Pytorch.
+   
+5. [torchprof](https://github.com/awwong1/torchprof)
+   > All metrics are derived using the PyTorch autograd profiler. It will give you **Self CPU total | CPU total | CUDA total**.
