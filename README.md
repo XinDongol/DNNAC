@@ -36,6 +36,13 @@ All about acceleration and compression of Deep Neural Networks
   > An united way to introduce structured sparsity.
   >
   > Implementation: [Caffe](https://github.com/wenwei202/caffe/tree/scnn)
+  
+### Neural Architecture Search (NAS)
+* Partial Channel Connections for Memory-Efficient Differentiable Architecture Search
+  > Our approach is memory efficient:(i) batch-size is increased to further accelerate the search on CIFAR10, (ii) directly search on ImageNet.
+  > Searched on ImageNet, we achieved currently one of, if not only, the best performance on ImageNet (24.2%/7.3%) under the mobile setting!
+  > The search process in CIFAR10 only requires 0.1 GPU-days, i.e., ~3 hours on one Nvidia 1080ti.(1.5 hours on one Tesla V100)
+  > Implementation: [PyTorch](https://github.com/yuhuixu1993/PC-DARTS) (origin)
 
 ### Others
 * Benchmark Analysis of Representative Deep Neural Network Architectures [IEEE Access, University of Milano-Bicocca]
