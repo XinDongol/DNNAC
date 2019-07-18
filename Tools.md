@@ -8,6 +8,11 @@
     > Horovod is a distributed training framework for TensorFlow, Keras, and PyTorch. The goal of Horovod is to make distributed Deep Learning fast and easy to use. Use baidu's RingAllReduce.
     
     > While installing MPI and NCCL itself may seem like an extra hassle, it only needs to be done once by the team dealing with infrastructure, while everyone else in the company who builds the models can enjoy the simplicity of training them at scale.
+    
+3. [BytePS](https://github.com/bytedance/byteps)
+   > BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.
+   
+   > BytePS outperforms existing open-sourced distributed training frameworks by a large margin. For example, on a popular public cloud and with the same number of GPUs, BytePS can double the training speed (see below), compared with Horovod+NCCL.
 
 ## Fast Layers
 1. [Pytorch-extension](https://github.com/sniklaus/pytorch-extension)
