@@ -47,3 +47,7 @@
    
 5. [torchprof](https://github.com/awwong1/torchprof)
    > All metrics are derived using the PyTorch autograd profiler. It will give you **Self CPU total | CPU total | CUDA total**.
+   
+## Job Control
+1. [TeleGrad](https://github.com/eyalzk/telegrad)
+   > Telegram bot to monitor and control deep learning experiments
