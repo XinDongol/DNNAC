@@ -58,3 +58,9 @@ All about acceleration and compression of Deep Neural Networks
 
 * [EMDL](https://github.com/EMDL/awesome-emdl): Embedded and mobile deep learning research notes
   > Embedded and mobile deep learning research notes on Github
+
+
+### Tools
+
+* [slimmable_networks](https://github.com/JiahuiYu/slimmable_networks)
+> An open source framework for slimmable training on tasks of ImageNet classification and COCO detection, which has enabled numerous projects.
