@@ -1,3 +1,8 @@
+## Federated Learning
+1. [FATE](https://github.com/webankfintech/fate)
+
+   > an open-source project initiated by Webank's AI Department to provide a secure computing framework to support the federated AI ecosystem
+
 ## Fast Training
 1. [APEX](https://github.com/NVIDIA/apex)
 
