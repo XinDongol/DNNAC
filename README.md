@@ -63,4 +63,4 @@ All about acceleration and compression of Deep Neural Networks
 ### Tools
 
 * [slimmable_networks](https://github.com/JiahuiYu/slimmable_networks)
-> An open source framework for slimmable training on tasks of ImageNet classification and COCO detection, which has enabled numerous projects.
+  > An open source framework for slimmable training on tasks of ImageNet classification and COCO detection, which has enabled numerous projects.
