@@ -38,6 +38,8 @@ All about acceleration and compression of Deep Neural Networks
   > Implementation: [Caffe](https://github.com/wenwei202/caffe/tree/scnn)
   
 ### Neural Architecture Search (NAS)
+* Resource
+  1. [automl.org](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 * Partial Channel Connections for Memory-Efficient Differentiable Architecture Search
   > Our approach is memory efficient:(i) batch-size is increased to further accelerate the search on CIFAR10, (ii) directly search on ImageNet.
   > Searched on ImageNet, we achieved currently one of, if not only, the best performance on ImageNet (24.2%/7.3%) under the mobile setting!
@@ -64,3 +66,5 @@ All about acceleration and compression of Deep Neural Networks
 
 * [slimmable_networks](https://github.com/JiahuiYu/slimmable_networks)
   > An open source framework for slimmable training on tasks of ImageNet classification and COCO detection, which has enabled numerous projects.
+* [distiller](https://github.com/NervanaSystems/distiller)
+  > a Python package for neural network compression research
