@@ -68,3 +68,5 @@ All about acceleration and compression of Deep Neural Networks
   > An open source framework for slimmable training on tasks of ImageNet classification and COCO detection, which has enabled numerous projects.
 * [distiller](https://github.com/NervanaSystems/distiller)
   > a Python package for neural network compression research
+* [QPyTorch](https://github.com/Tiiiger/QPyTorch)
+  > QPyTorch is a low-precision arithmetic simulation package in PyTorch. It is designed to support researches on low-precision machine learning, especially for researches in low-precision training.
